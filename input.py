@@ -1,0 +1,1 @@
+#inuput() --> get input from user
